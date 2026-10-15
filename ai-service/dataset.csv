@@ -1,0 +1,13 @@
+description,type
+The login page is crashing when I click submit,Bug
+Add a dark mode button to the dashboard,Feature
+Payment gateway is not working and shows error 500,Bug
+Create a new profile page for users,Feature
+Fix the typo in the header navigation,Bug
+Allow users to upload profile pictures,Feature
+Database connection failed timeout error,Bug
+Implement email notification for new messages,Feature
+Users cannot reset their passwords,Bug
+Add social media sharing buttons to the blog,Feature
+The app closes unexpectedly on Android 12,Bug
+Integrate Google Calendar API for scheduling,Feature
